@@ -17,12 +17,12 @@ Este projeto analisa os hábitos de prática de atividade física entre estudant
 - SciPy (estatística)
 
 ## 📁 Estrutura do Projeto
-📁 projeto-ufscar-atividade-fisica/
-├── dados/
-│ └── respostas_formulario.csv
-├── analise_atividade_fisica.ipynb
-├── requirements.txt
-└── README.md
+projeto-ufscar-atividade-fisica/
+  ├── dados/
+  │   └── respostas_formulario.csv
+  ├── analise_atividade_fisica.ipynb
+  ├── requirements.txt
+  └── README.md
 
 
 ## ▶️ Como Executar
